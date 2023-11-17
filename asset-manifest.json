@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/assidussproject/static/css/main.ce077730.css",
+    "main.js": "/assidussproject/static/js/main.16fbe9f9.js",
+    "static/js/787.f35cf8b0.chunk.js": "/assidussproject/static/js/787.f35cf8b0.chunk.js",
+    "static/media/Assiduus_Global_Logo.jpg": "/assidussproject/static/media/Assiduus_Global_Logo.da24cdc3d7ec64bc031d.jpg",
+    "index.html": "/assidussproject/index.html",
+    "main.ce077730.css.map": "/assidussproject/static/css/main.ce077730.css.map",
+    "main.16fbe9f9.js.map": "/assidussproject/static/js/main.16fbe9f9.js.map",
+    "787.f35cf8b0.chunk.js.map": "/assidussproject/static/js/787.f35cf8b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce077730.css",
+    "static/js/main.16fbe9f9.js"
+  ]
+}
